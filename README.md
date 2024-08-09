@@ -1,5 +1,5 @@
 # Christin Racicot
-## Software Developper
+Software Developper
 
 ![Cover Image](cover.png)
 
