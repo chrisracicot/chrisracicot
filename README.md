@@ -1,22 +1,24 @@
-# Hi there! 👋 I'm Mehdi Shokrani
+# Christin Racicot, Software Developper
 
 ![Cover Image](cover.png)
 
-[![](https://img.shields.io/badge/Email-mehdishokrani1%40gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:mehdishokrani1@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-Mehdi%20Shokrani-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/mehdishokrani/)
+[![](https://img.shields.io/badge/Email-mehdishokrani1%40gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:christin.racicot@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-Mehdi%20Shokrani-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)]([https://www.linkedin.com/in/chris-racicot-a15314295/)
 [![](https://img.shields.io/badge/Resume-Mehdi%20Shokrani-%230077B5.svg?&style=for-the-badge&color=blue)](https://mehdishokrani.github.io/personalwebsite/)
 
 ---
 
-## About Me 🚀
+## About Me
 
-I'm a passionate Full Stack Developer and Instructor based in Calgary, AB, Canada. I specialize in developing cutting-edge applications and leading technology-driven projects to enhance system performance and user satisfaction through innovative solutions.
+I am a respected, innovative, and hard-working individual with over 8 years of experience in administrative roles and 10 years in customer service.
+
+I love object-oriented programming and I'm great at working together within my team.
 
 ---
 
 ## Professional Experience 💼
 
-### Instructor (Software Development) @ SAIT
+### Student of Software Development at SAIT Southern Alberta Institute of Technology
 
 🏫 [Southern Alberta Institute of Technology (SAIT)](https://www.sait.ca/), Calgary, AB  
 📅 January 2024 – Present  
@@ -72,4 +74,4 @@ Agile, Scrum, Project Lifecycle Management
 
 ---
 
-### Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mehdishokrani/) or shoot me an email at [mehdishokrani1@gmail.com](mailto:mehdishokrani1@gmail.com)!
+### Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/chris-racicot-a15314295/]) or by email at [christin.racicot@gmail.com](mailto:christin.racicot@gmail.com)!
