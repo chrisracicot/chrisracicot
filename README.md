@@ -1,5 +1,5 @@
 # Christin Racicot
-Software Developper
+Software Developer
 
 ![Cover Image](cover.png)
 
@@ -13,7 +13,7 @@ Software Developper
 
 I am a respected, innovative, and hard-working individual with over 8 years of experience in administrative roles and 10 years in customer service.
 
-I love object-oriented programming and I'm great at working together within my team.
+I love object-oriented programming, and I'm great at working together with a team.
 
 ---
 
