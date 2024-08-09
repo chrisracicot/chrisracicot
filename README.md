@@ -1,5 +1,5 @@
-# Christin Racicot
-Software Developer
+# Christin Racicot - Software Developer
+Calgary, AB
 
 ![Cover Image](cover.png)
 
