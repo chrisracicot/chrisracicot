@@ -3,7 +3,7 @@ Calgary, AB
 
 ![Cover Image](cover.png)
 
-[![](https://img.shields.io/badge/Email-christin.raicot1%40gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:christin.racicot@gmail.com)
+[![](https://img.shields.io/badge/Email-christin.raicot%40gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:christin.racicot@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-Christin%20Racicot-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/chris-racicot-a15314295/)
 [![](https://img.shields.io/badge/Website-Christin%20Racicot-%230077B5.svg?&style=for-the-badge&color=blue)](http://cracicot.ca/)
 
