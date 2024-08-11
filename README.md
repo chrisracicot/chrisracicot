@@ -9,42 +9,78 @@ Calgary, AB
 
 ---
 
-## Profile
+## Profile:
 
 Aspiring Software Developer with a strong foundation in software development, currently pursuing a diploma at Southern Alberta Institute of Technology (SAIT). Holds a Bachelor’s Degree in Communications and Culture with a minor in Economics from the University of Calgary. Experienced in administrative roles with a proven ability to mediate communications and manage data effectively. Passionate about object-oriented programming and creating strong connections with others.
 
 ---
 
-## Core Skills
+## Core Skills:
 
-   * Proficient in C#, Python, MySQL, Figma
-   * Data Entry, Analysis, and Reporting
-   * Customer-focused, Intuitive Communicator
-   * Trusted and Timely
-   * Avid Problem-solver
+   * Proficient in C#, Python, MySQL, Figma, Software Analysis
+   * Avid Software Analysist
    * Driven by Challenging Opportunities
-   * Enthusiastic Team-builder
-
-
-### Full Stack Developer and IT Manager @ ActionCOACH
-
-💼 [ActionCOACH](https://actioncoach.ca/), Calgary, AB  
-📅 February 2023 – December 2023  
-
-- Directed the complete redesign of the corporate website, increasing traffic by 35% and improving user engagement.
-- Orchestrated the development of custom API management tools, increasing system efficiency by 40%.
-
-### Software Developer @ Vira Tejarat Gostar Raha
-
-💼 Vira Tejarat Gostar Raha, Iran  
-📅 July 2015 – December 2022  
-
-- Engineered and launched a CRM platform, achieving a 50% improvement in client response times.
-- Led a significant overhaul of logistics and inventory management systems, reducing costs by 30%.
+   * Collaborative Team Player
+   * Effective Communicator with Stakeholders
 
 ---
 
-## Technical Skills 💻
+## Education
+
+## Diploma in Software Development
+Southern Alberta Institute of Technology (SAIT)
+Expected Graduation: 2025
+
+## Bachelor of Communications and Culture, Minor in Economics
+University of Calgary, 2010
+
+## Introduction to Social Work in Canada Course
+University of Calgary, 2022
+
+---
+
+## Work Experience:
+
+## Administrative Assistant
+Men-In-Kilts
+Aug 2014 – Nov 2015
+
+  * Input data and maintain reports related to technician salaries, productivity, and marketing.
+  * Process customer invoices and calculate technician salaries.
+  * Coordinate with other teams and provide quality customer service.
+  * Design and code spreadsheets macro to input data, flag information, and automate reports.
+
+## Domestic Transportation Administrator
+Mark’s Work Wearhouse
+Aug 2010 – Jul 2014
+
+  * Worked on special projects to decrease supply chain costs and increase productivity.
+  * Monitored and enforced compliance of merchandise suppliers and domestic carriers.
+  * Coded spreadsheets to input data, produce reports, flag cost, and schedule information.
+  * Created notices and training documents for vendors and store receivers.
+  * Mediated communications between vendors, carriers, store managers, and colleagues.
+  * Maintained and enforced vendor shipping rules and guidelines.
+  * Finalist for a high-level innovation award for creating a database that flags high volume shipping times.
+
+## Closer
+Resmor Trust Company
+2004 - 2006
+
+  * Cross-verified mortgage documents and conferred with businesses to confirm the validity of information.
+  * Emphasized teamwork, reporting, perseverance, and double-checking work.
+
+---
+
+## Personal Practices:
+
+  * President of The Mini-Hackathons Club at SAIT, helping new students learn to program and network.
+  * Creator of the 2024 Software Development Discord server for student advice and collaboration.
+  * Member of the SAIT Neurodiversity Club
+  * Volunteer at The Prince of Faith Lutheran Church - Cleaning and Maintenance 
+
+---
+
+## Technical Skills
 
 ### Languages
 - <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C Icon" height="40" width="40" /> <img align="center" src="https://learn.microsoft.com/en-us/media/logos/logo_Cplusplus.svg" alt="C++ Icon" height="40" width="40" /> <img align="center" src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" alt="C# Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="JavaScript (ES6) Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png" alt="Python Icon" height="40" width="40" />
