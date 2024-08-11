@@ -88,12 +88,7 @@ Resmor Trust Company
 ### Technical Skills
 
 ### Languages
-- <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C Icon" height="40" width="40" /> <img align="center" src="https://learn.microsoft.com/en-us/media/logos/logo_Cplusplus.svg" alt="C++ Icon" height="40" width="40" /> <img align="center" src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" alt="C# Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="JavaScript (ES6) Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png" alt="Python Icon" height="40" width="40" />
-
-### Technical Skills:
-
-### Languages
-<img align="center" src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" alt="C# Icon" height="40" width="40" /> 
+<img align="center" src="[https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png](https://camo.githubusercontent.com/6bffdf7511ad2efb80dcb539a0d8603d4d017e58302af626744d3c6022414be2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667)" alt="C# Icon" height="40" width="40" /> 
 <img align="center" src="[https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png](https://camo.githubusercontent.com/6bffdf7511ad2efb80dcb539a0d8603d4d017e58302af626744d3c6022414be2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667)" alt="Python Icon" height="60" width="60" />
 
 
