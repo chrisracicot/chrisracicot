@@ -5,27 +5,26 @@ Calgary, AB
 
 [![](https://img.shields.io/badge/Email-christin.raicot%40gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:christin.racicot@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-Christin%20Racicot-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/chris-racicot-a15314295/)
-<!–– [![](https://img.shields.io/badge/Website-Christin%20Racicot-%230077B5.svg?&style=for-the-badge&color=blue)](http://cracicot.ca/)-->
+
 
 ---
 
-## About Me
+## Profile
 
-I am a respected, innovative, and hard-working individual with over 8 years of experience in administrative roles and 10 years in customer service.
-
-I love object-oriented programming, and I'm great at working together with a team.
+Aspiring Software Developer with a strong foundation in software development, currently pursuing a diploma at Southern Alberta Institute of Technology (SAIT). Holds a Bachelor’s Degree in Communications and Culture with a minor in Economics from the University of Calgary. Experienced in administrative roles with a proven ability to mediate communications and manage data effectively. Passionate about object-oriented programming and creating strong connections with others.
 
 ---
 
-## Professional Experience 💼
+## Core Skills
 
-### Student of Software Development at SAIT Southern Alberta Institute of Technology
+  •	Proficient in C#, Python, MySQL, Figma
+  •	Data Entry, Analysis, and Reporting
+  •	Customer-focused, Intuitive Communicator
+  •	Trusted and Timely
+  •	Avid Problem-solver
+  •	Driven by Challenging Opportunities
+  •	Enthusiastic Team-builder
 
-🏫 [Southern Alberta Institute of Technology (SAIT)](https://www.sait.ca/), Calgary, AB  
-📅 January 2024 – Present  
-
-- Redesigned the web development curriculum to incorporate cutting-edge technologies such as React, TypeScript, Next.js, Firebase, and Firestore.
-- Successfully managed and coordinated a project-based learning model, leading to a 25% increase in student employment rates post-graduation.
 
 ### Full Stack Developer and IT Manager @ ActionCOACH
 
