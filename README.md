@@ -17,13 +17,13 @@ Aspiring Software Developer with a strong foundation in software development, cu
 
 ## Core Skills
 
-  •	Proficient in C#, Python, MySQL, Figma
-  •	Data Entry, Analysis, and Reporting
-  •	Customer-focused, Intuitive Communicator
-  •	Trusted and Timely
-  •	Avid Problem-solver
-  •	Driven by Challenging Opportunities
-  •	Enthusiastic Team-builder
+   * Proficient in C#, Python, MySQL, Figma
+   * Data Entry, Analysis, and Reporting
+   * Customer-focused, Intuitive Communicator
+   * Trusted and Timely
+   * Avid Problem-solver
+   * Driven by Challenging Opportunities
+   * Enthusiastic Team-builder
 
 
 ### Full Stack Developer and IT Manager @ ActionCOACH
