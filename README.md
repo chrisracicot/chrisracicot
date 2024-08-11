@@ -9,13 +9,13 @@ Calgary, AB
 
 ---
 
-## Profile:
+# Profile:
 
 Aspiring Software Developer with a strong foundation in software development, currently pursuing a diploma at Southern Alberta Institute of Technology (SAIT). Holds a Bachelor’s Degree in Communications and Culture with a minor in Economics from the University of Calgary. Experienced in administrative roles with a proven ability to mediate communications and manage data effectively. Passionate about object-oriented programming and creating strong connections with others.
 
 ---
 
-## Core Skills:
+# Core Skills:
 
    * Proficient in C#, Python, MySQL, Figma, Software Analysis
    * Avid Software Analysist
@@ -25,23 +25,23 @@ Aspiring Software Developer with a strong foundation in software development, cu
 
 ---
 
-## Education
+# Education:
 
-## Diploma in Software Development
+# Diploma in Software Development
 Southern Alberta Institute of Technology (SAIT)
 Expected Graduation: 2025
 
-## Bachelor of Communications and Culture, Minor in Economics
+# Bachelor of Communications and Culture, Minor in Economics
 University of Calgary, 2010
 
-## Introduction to Social Work in Canada Course
+# Introduction to Social Work in Canada Course
 University of Calgary, 2022
 
 ---
 
-## Work Experience:
+# Work Experience:
 
-## Administrative Assistant
+# Administrative Assistant
 Men-In-Kilts
 Aug 2014 – Nov 2015
 
@@ -50,7 +50,7 @@ Aug 2014 – Nov 2015
   * Coordinate with other teams and provide quality customer service.
   * Design and code spreadsheets macro to input data, flag information, and automate reports.
 
-## Domestic Transportation Administrator
+# Domestic Transportation Administrator
 Mark’s Work Wearhouse
 Aug 2010 – Jul 2014
 
@@ -62,7 +62,7 @@ Aug 2010 – Jul 2014
   * Maintained and enforced vendor shipping rules and guidelines.
   * Finalist for a high-level innovation award for creating a database that flags high volume shipping times.
 
-## Closer
+# Closer
 Resmor Trust Company
 2004 - 2006
 
@@ -71,7 +71,7 @@ Resmor Trust Company
 
 ---
 
-## Personal Practices:
+# Personal Practices:
 
   * President of The Mini-Hackathons Club at SAIT, helping new students learn to program and network.
   * Creator of the 2024 Software Development Discord server for student advice and collaboration.
@@ -80,7 +80,7 @@ Resmor Trust Company
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 ### Languages
 - <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C Icon" height="40" width="40" /> <img align="center" src="https://learn.microsoft.com/en-us/media/logos/logo_Cplusplus.svg" alt="C++ Icon" height="40" width="40" /> <img align="center" src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" alt="C# Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="JavaScript (ES6) Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png" alt="Python Icon" height="40" width="40" />
