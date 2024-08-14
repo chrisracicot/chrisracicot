@@ -104,17 +104,6 @@ Resmor Trust Company
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/html5-2038876-1721675.png" alt="HTML5 Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="CSS3 Icon" height="40" width="40" /> <img align="center" src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="Tailwind CSS Icon" height="40" width="60" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/angular-3-226070.png" alt="AngularJS Icon" height="40" width="40" /> <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png" alt="DOM Manipulation Icon" height="40" width="40" />
 
 
-### Cloud Services
-- <img align="center" src="https://nightingalehq.ai/knowledgebase/glossary/what-is-azure/azure_hub7851ef017d77ced04d70171560f357b_47008_1200x675_fill_q75_box_smart1.jpg" alt="Azure DevOps Icon" height="40" width="40" /> <img align="center" src="https://qualitapps.com/wp-content/uploads/2023/09/devops-concept-1.jpg" alt="CI/CD Icon" height="40" width="40" /> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" alt="Google Cloud Platform Icon" height="40" width="40" /> Google Cloud <img align="center" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel Icon" height="40" width="40" />
-
-### Backend
-RESTful APIs, Server Configuration, Microservices Architecture, ORM with Prisma
-
-### Authentication
-OAuth, JWT, Firebase Auth
-
-### Project Management
-Agile, Scrum, Project Lifecycle Management
 
 
 ---
