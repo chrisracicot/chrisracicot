@@ -88,23 +88,23 @@ Resmor Trust Company
 ### Technical Skills
 
 ### Languages
-C#
-Python
+  * C#
+  * Python
 
 ### Frameworks/Libraries
-.NET
-Bootstrap
-Blazor
+  * .NET
+  * Bootstrap
+  * Blazor
 
 ### Databases
-Oracle
-MySQL
+  * Oracle
+  * MySQL
 
 ### Frontend
-Figma
-HTML
-CSS
-JavaScript
+  * Figma
+  * HTML
+  * CSS
+  * JavaScript
 
 
 ---
