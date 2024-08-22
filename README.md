@@ -97,14 +97,18 @@ Resmor Trust Company
   * Blazor
 
 ### Databases
-  * Oracle
-  * MySQL
+  * Oracle - SQL Plus
+  * MariaDB - MySQL, HeidiSQL
 
 ### Frontend
-  * Figma
   * HTML
   * CSS
   * JavaScript
+  * Figma
+  * MAUI
+
+### Engineeriing
+  * Software Analysis and Design
 
 
 ---
