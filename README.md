@@ -1,4 +1,4 @@
-## Christin Racicot - Software Developer
+## Chris Racicot - Software Developer
 Calgary, AB
 
 ![Cover Image](Calgary-foreground-Pengrowth-Saddledome-Canada-Alberta.png)
@@ -74,4 +74,4 @@ Aug 2010 – Jul 2014
 
 ---
 
-### Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/chris-racicot-a15314295/]) or by email at [christin.racicot@gmail.com](mailto:christin.racicot@gmail.com)!
+### Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/chris-racicot-a15314295/]) or by email at [chris@chrisracicot.com](mailto:chris@chrisracicot.com)!
